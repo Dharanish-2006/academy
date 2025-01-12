@@ -971,7 +971,7 @@ Courses Style
 
 .event_filter li {
   display: inline-block;
-  margin: 0px 20px;
+  margin: 20px 20px;
 }
 
 .event_filter li a {
@@ -1707,7 +1707,7 @@ body {
   }
   .event_filter li {
     display: inline-block;
-    margin: 0px 10px;
+    margin: 20px 10px;
   }
 }
 
