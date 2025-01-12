@@ -977,15 +977,19 @@ Courses Style
 .event_filter li a {
   font-size: 14px;
   font-weight: 500;
-  color: #1e1e1e;
+  color: white;
   transition: all .3s;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7a6ad8;
+  border-radius: 50px;
 }
 
 .event_filter li
 
 .event_filter li a.is_active,
 .event_filter li a:hover {
-  color: #7a6ad8;
+  color: black;
 }
 
 .events_item .thumb {
